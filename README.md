@@ -1,6 +1,4 @@
-### Hi!
-
-I'm a PhD student working on computer networks and distributed systems. Welcome to my place!
+### Hi! I'm a PhD student working on computer networks and distributed systems. Welcome to my place!
 
 🚜 __Systems I've built__:
 
