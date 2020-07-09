@@ -3,7 +3,7 @@
 🚜 __Systems I've built__:
 
 - A Rust 🦀️ [implementation](https://github.com/yangl1996/prism-rust) of the Prism consensus protocol 🔒
-- A [wireless camera](https://github.com/cjosephson/backcam) 🎥 that runs for a month on two AA batteries
+- A [wireless camera](https://github.com/cjosephson/backcam) 🎥 that runs for a month on two AA batteries (there's a [paper](https://dl.acm.org/doi/10.1145/3302506.3310403) on it) 
 
 ⛵️ __Other stuff I've done__:
 
