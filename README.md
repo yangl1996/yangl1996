@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**yangl1996/yangl1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student working on computer networks and distributed systems. Welcome to my place!
 
-Here are some ideas to get you started:
+🚜 Systems I've built:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A Rust 🦀️ [implementation](https://github.com/yangl1996/prism-rust) of the Prism consensus protocol 🔒
+- A [wireless camera](https://github.com/cjosephson/backcam) 🎥 that runs for a month on two AA batteries
+
+⛵️ Other stuff I've done:
+
+- APRS [weather station](https://github.com/yangl1996/aprswxbox) 🌈 on Arduino
+
+📬 To reach out:
+
+- 🌐 [Homepage](http://leiy.me)
+- ✒️ [Blog](http://blog.leiy.me)
+- 📢 [Twitter](https://twitter.com/yangl1996)
