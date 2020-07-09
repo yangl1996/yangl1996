@@ -1,4 +1,4 @@
-<span style="font-size:larger;"><Hi! I'm a PhD student working on computer networks and distributed systems. Welcome to my place!</span>
+<span style="font-size:larger;"><b>Hi!</b> I'm a PhD student working on computer networks and distributed systems. Welcome to my place!</span>
 
 🚜 __Systems I've built__:
 
