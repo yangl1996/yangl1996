@@ -2,7 +2,7 @@
 
 📆 __Projects I'm working on__:
 
-- Improving distributed system deployed across a wide area (i.e., the internet).
+- Improving distributed systems deployed across a wide area (i.e., the internet).
 
 🚜 __Systems I've built__:
 
