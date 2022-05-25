@@ -1,3 +1,7 @@
+💻 __Stuff I'm working on__:
+
+- [Strokkur](https://arxiv.org/abs/2205.01797): Coded transaction broadcast for high-throughput blockchains.
+
 📆 __New stuff__:
 
 - [DispersedLedger](https://github.com/yangl1996/dispersed-ledger): High-throughput Byzantine consensus on variable bandwidth networks.
