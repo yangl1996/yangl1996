@@ -1,6 +1,7 @@
 💻 __Stuff I'm working on__:
 
 - [Strokkur](https://arxiv.org/abs/2205.01797): Coded transaction broadcast for high-throughput blockchains.
+- [Coded broadcast](https://dl.acm.org/doi/pdf/10.1145/3548606.3563494): High-throughput broadcast in Byzantine environments.
 
 📆 __New stuff__:
 
