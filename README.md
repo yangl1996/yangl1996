@@ -1,10 +1,10 @@
 💻 __Stuff I'm working on__:
 
-- [Strokkur](https://arxiv.org/abs/2205.01797): Coded transaction broadcast for high-throughput blockchains.
-- [Coded broadcast](https://dl.acm.org/doi/pdf/10.1145/3548606.3563494): High-throughput broadcast in Byzantine environments.
+- [Rateless IBLT](https://github.com/yangl1996/riblt): Practical rateless set reconciliation.
 
 📆 __New stuff__:
 
+- [Coded broadcast](https://dl.acm.org/doi/pdf/10.1145/3548606.3563494): High-throughput broadcast in Byzantine environments.
 - [DispersedLedger](https://github.com/yangl1996/dispersed-ledger): High-throughput Byzantine consensus on variable bandwidth networks.
 
 🚜 __Semi-new stuff__:
